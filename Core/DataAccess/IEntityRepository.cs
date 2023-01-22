@@ -1,6 +1,6 @@
 ﻿using System.Linq.Expressions;
 
-namespace Core.Entities
+namespace Core.DataAccess
 {
     public interface IEntityRepository<T> where T : class
     {

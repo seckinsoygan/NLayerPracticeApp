@@ -1,7 +1,7 @@
 ﻿using Entities.Concrete;
 using Microsoft.EntityFrameworkCore;
 
-namespace DataAccess.Concrete
+namespace DataAccess.Concrete.EntityFramework
 {
     public class AppDbContext : DbContext
     {
